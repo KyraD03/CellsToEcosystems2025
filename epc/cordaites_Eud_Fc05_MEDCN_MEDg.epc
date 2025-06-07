@@ -29,7 +29,7 @@ ECOPHYS       EBF (evergreen broadleaf forest - tropical)
 0.25          (DIM)     fine root lignin proportion
 0.76          (DIM)     dead wood cellulose proportion
 0.24          (DIM)     dead wood lignin proportion
-0.041         (1/LAI/d) canopy water interception coefficient
+0.025         (1/LAI/d) canopy water interception coefficient
 0.7           (DIM)     canopy light extinction coefficient
 2.0           (DIM)     all-sided to projected leaf area ratio
 23.4          (m2/kgC)  canopy average specific leaf area (projected area basis)
